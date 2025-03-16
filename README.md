@@ -21,12 +21,18 @@
 
 ## 🔗 Connect with Me  
 <p align="left">
+## 🔗 Connect with Me  
+<p align="left">
     <a href="https://linkedin.com/in/deepak-keer-18ba76338" target="_blank">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/d_eepakkeer" target="_blank">
         <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
     </a>
+    <a href="https://github.com/Deepak-Builds" target="_blank">
+        <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+</p>
 </p>
 
 ---
