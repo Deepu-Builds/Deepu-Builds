@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepu-Builds/Deepu-Builds/blob/main/mybanner.png)
+![logo](https://github.com/Deepu-Builds/Deepu-Builds/blob/main/myBanner.png)
 <h1 align="center">Hi 👋, I'm Deepak Keer</h1>
 <h3 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Passionate+Software+Engineer;Full+Stack+Web+Developer;Aspiring+AI+and+ML+Engineer;Lifelong+Learner+🚀" alt="Typing SVG" />
